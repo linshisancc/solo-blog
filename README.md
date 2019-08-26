@@ -10,6 +10,7 @@ linshisancc 的个人博客
 
 ### 最新
 
+* [不知道啥的标题](https://www.linshisan.com/nothing-todo)
 * [世界，你好！](https://www.linshisan.com/hello-solo)
 
 
