@@ -1,4 +1,4 @@
-<p align="center"><img alt="linshisancc 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="linshisancc 的个人博客" src="https://raw.githubusercontent.com/linshisancc/tuchuang/master/static/imgs/favicon.ico"></p><h2 align="center">
 linshisancc 的个人博客
 </h2>
 
@@ -10,6 +10,9 @@ linshisancc 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.linshisan.com/my-github-repos)
+* [Java 程序设计题](https://www.linshisan.com/articles/2019/08/27/15668881583010.html)
+* [Java 疑难点](https://www.linshisan.com/articles/2019/08/27/1566888158309.html)
 * [好消息，博客系统与技术笔记站分离！](https://www.linshisan.com/blog-jishuzhan)
 * [不知道啥的标题](https://www.linshisan.com/nothing-todo)
 
