@@ -10,7 +10,7 @@ linshisancc 的个人博客
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://www.linshisan.com/my-github-repos)
+* [LeetCode 23 合并 k 个排序链表](https://www.linshisan.com/articles/2019/08/27/156688815830012.html)
 * [Java 程序设计题](https://www.linshisan.com/articles/2019/08/27/15668881583010.html)
 * [Java 疑难点](https://www.linshisan.com/articles/2019/08/27/1566888158309.html)
 * [好消息，博客系统与技术笔记站分离！](https://www.linshisan.com/blog-jishuzhan)
