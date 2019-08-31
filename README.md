@@ -10,6 +10,8 @@ linshisancc 的个人博客
 
 ### 最新
 
+* [Java 数据结构 - stack](https://www.linshisan.com/articles/2019/08/31/1567236926713.html)
+* [Java 数据结构 - Joseph](https://www.linshisan.com/articles/2019/08/30/1567178408023.html)
 * [Java 数据结构 - SingleLinkedList](https://www.linshisan.com/articles/2019/08/30/1567161801851.html)
 * [Java 数据结构 - Queue](https://www.linshisan.com/articles/2019/08/29/1566997684912.html)
 * [Java 数据结构 - SparseArray](https://www.linshisan.com/articles/2019/08/28/1566997684976.html)
