@@ -10,6 +10,12 @@ linshisancc 的个人博客
 
 ### 最新
 
+* [Java 算法 - MergeSort](https://www.linshisan.com/articles/2019/09/03/1567502626264.html)
+* [Java 算法 - QuictSort](https://www.linshisan.com/articles/2019/09/03/1567502034973.html)
+* [Java 算法 - ShellSort](https://www.linshisan.com/articles/2019/09/03/1567481264624.html)
+* [Java 算法 - InsertSort](https://www.linshisan.com/articles/2019/09/03/1567480834059.html)
+* [Java 算法 - SelectSort ](https://www.linshisan.com/articles/2019/09/02/1567434683428.html)
+* [Java 算法 - BubbleSort](https://www.linshisan.com/articles/2019/09/02/1567429913484.html)
 * [Java 数据结构-八皇后问题](https://www.linshisan.com/articles/2019/09/02/1567410269318.html)
 * [Java 数据结构-MazePath](https://www.linshisan.com/articles/2019/09/02/1567409657700.html)
 * [Java 数据结构 - PolandNotation](https://www.linshisan.com/articles/2019/09/01/1567327639462.html)
