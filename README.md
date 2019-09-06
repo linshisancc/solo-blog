@@ -10,6 +10,9 @@ linshisancc 的个人博客
 
 ### 最新
 
+* [Java 数据结构 - HuffmanTree](https://www.linshisan.com/articles/2019/09/06/1567752965089.html)
+* [Java 算法 - HeapSort](https://www.linshisan.com/articles/2019/09/06/1567737419817.html)
+* [Java 数据结构 - 顺序存储二叉树](https://www.linshisan.com/articles/2019/09/06/1567736323185.html)
 * [Java 数据结构 - 线索化二叉树](https://www.linshisan.com/articles/2019/09/05/1567680956494.html)
 * [Java 数据结构 - 二叉树](https://www.linshisan.com/articles/2019/09/05/1567658217320.html)
 * [Java 算法 - FibonacciSearch](https://www.linshisan.com/articles/2019/09/04/1567574964730.html)
@@ -27,17 +30,17 @@ linshisancc 的个人博客
 * [Java 数据结构 - PolandNotation](https://www.linshisan.com/articles/2019/09/01/1567327639462.html)
 * [Java 数据结构 - stack](https://www.linshisan.com/articles/2019/08/31/1567236926713.html)
 * [Java 数据结构 - Joseph](https://www.linshisan.com/articles/2019/08/30/1567178408023.html)
-* [Java 数据结构 - SingleLinkedList](https://www.linshisan.com/articles/2019/08/30/1567161801851.html)
-* [Java 数据结构 - Queue](https://www.linshisan.com/articles/2019/08/29/1566997684912.html)
-* [Java 数据结构 - SparseArray](https://www.linshisan.com/articles/2019/08/28/1566997684976.html)
 
 ### 热门
 
 * [LeetCode 23 合并 k 个排序链表](https://www.linshisan.com/articles/2019/08/27/156688815830012.html)
-* [好消息，博客系统与技术笔记站分离！](https://www.linshisan.com/blog-jishuzhan)
+* [好消息，博客系统与技术笔记站分离！](https://www.linshisan.com/blog-jishuzhans)
 * [Java 程序设计题](https://www.linshisan.com/articles/2019/08/27/15668881583010.html)
 * [不知道啥的标题](https://www.linshisan.com/nothing-todo)
+* [Java 数据结构 - SparseArray](https://www.linshisan.com/articles/2019/08/28/1566997684976.html)
+* [Java 数据结构 - Queue](https://www.linshisan.com/articles/2019/08/29/1566997684912.html)
 * [Java 疑难点](https://www.linshisan.com/articles/2019/08/27/1566888158309.html)
+* [Java 数据结构 - SingleLinkedList](https://www.linshisan.com/articles/2019/08/30/1567161801851.html)
 
 
 
