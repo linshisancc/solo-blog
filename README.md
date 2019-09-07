@@ -10,6 +10,7 @@ linshisancc 的个人博客
 
 ### 最新
 
+* [Java 算法 - Huffman Coding](https://www.linshisan.com/articles/2019/09/07/1567840648234.html)
 * [Java 数据结构 - HuffmanTree](https://www.linshisan.com/articles/2019/09/06/1567752965089.html)
 * [Java 算法 - HeapSort](https://www.linshisan.com/articles/2019/09/06/1567737419817.html)
 * [Java 数据结构 - 顺序存储二叉树](https://www.linshisan.com/articles/2019/09/06/1567736323185.html)
@@ -29,7 +30,6 @@ linshisancc 的个人博客
 * [Java 数据结构-MazePath](https://www.linshisan.com/articles/2019/09/02/1567409657700.html)
 * [Java 数据结构 - PolandNotation](https://www.linshisan.com/articles/2019/09/01/1567327639462.html)
 * [Java 数据结构 - stack](https://www.linshisan.com/articles/2019/08/31/1567236926713.html)
-* [Java 数据结构 - Joseph](https://www.linshisan.com/articles/2019/08/30/1567178408023.html)
 
 ### 热门
 
@@ -39,6 +39,7 @@ linshisancc 的个人博客
 * [不知道啥的标题](https://www.linshisan.com/nothing-todo)
 * [Java 数据结构 - SparseArray](https://www.linshisan.com/articles/2019/08/28/1566997684976.html)
 * [Java 数据结构 - Queue](https://www.linshisan.com/articles/2019/08/29/1566997684912.html)
+* [Java 数据结构 - Joseph](https://www.linshisan.com/articles/2019/08/30/1567178408023.html)
 * [Java 疑难点](https://www.linshisan.com/articles/2019/08/27/1566888158309.html)
 * [Java 数据结构 - SingleLinkedList](https://www.linshisan.com/articles/2019/08/30/1567161801851.html)
 
