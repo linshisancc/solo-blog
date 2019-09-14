@@ -10,6 +10,7 @@ linshisancc 的个人博客
 
 ### 最新
 
+* [Java 算法 - 分治算法](https://www.linshisan.com/articles/2019/09/14/1568439814414.html)
 * [Java 数据结构 - Graph](https://www.linshisan.com/articles/2019/09/09/1568007716227.html)
 * [Java 数据结构 - AVLTree](https://www.linshisan.com/articles/2019/09/08/1567920865244.html)
 * [Java 数据结构 - BinarySortTree](https://www.linshisan.com/articles/2019/09/08/1567917869290.html)
@@ -29,7 +30,6 @@ linshisancc 的个人博客
 * [Java 算法 - InsertSort](https://www.linshisan.com/articles/2019/09/03/1567480834059.html)
 * [Java 算法 - SelectSort ](https://www.linshisan.com/articles/2019/09/02/1567434683428.html)
 * [Java 算法 - BubbleSort](https://www.linshisan.com/articles/2019/09/02/1567429913484.html)
-* [Java 数据结构-八皇后问题](https://www.linshisan.com/articles/2019/09/02/1567410269318.html)
 
 ### 热门
 
@@ -43,6 +43,7 @@ linshisancc 的个人博客
 * [Java 数据结构 - PolandNotation](https://www.linshisan.com/articles/2019/09/01/1567327639462.html)
 * [Java 疑难点](https://www.linshisan.com/articles/2019/08/27/1566888158309.html)
 * [Java 数据结构 - SingleLinkedList](https://www.linshisan.com/articles/2019/08/30/1567161801851.html)
+* [Java 数据结构-八皇后问题](https://www.linshisan.com/articles/2019/09/02/1567410269318.html)
 * [Java 数据结构 - stack](https://www.linshisan.com/articles/2019/08/31/1567236926713.html)
 * [Java 数据结构-MazePath](https://www.linshisan.com/articles/2019/09/02/1567409657700.html)
 
