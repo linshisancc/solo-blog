@@ -43,8 +43,8 @@ linshisancc 的个人博客
 * [Java 数据结构-八皇后问题](https://www.linshisan.com/articles/2019/09/02/1567410269318.html)
 * [Java 疑难点](https://www.linshisan.com/articles/2019/08/27/1566888158309.html)
 * [Java 数据结构 - Joseph](https://www.linshisan.com/articles/2019/08/30/1567178408023.html)
-* [Java 数据结构 - PolandNotation](https://www.linshisan.com/articles/2019/09/01/1567327639462.html)
 * [Java 数据结构 - SingleLinkedList](https://www.linshisan.com/articles/2019/08/30/1567161801851.html)
+* [Java 数据结构 - PolandNotation](https://www.linshisan.com/articles/2019/09/01/1567327639462.html)
 * [Java 数据结构-MazePath](https://www.linshisan.com/articles/2019/09/02/1567409657700.html)
 
 
